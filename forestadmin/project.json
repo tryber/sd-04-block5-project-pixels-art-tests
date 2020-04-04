@@ -1,0 +1,75 @@
+{
+  "project": {
+    "name": "betrybe/sd-0x-block5-project-pixels-art",
+    "description": "Projeto de HTML, CSS & JavaScript.",
+    "enabled": true,
+    "deadline": "YYYY-MM-DD 17:10:00",
+    "requirements": [
+      {
+        "description": "A página deve possuir o título \"Paleta de Cores\"",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "A página deve possuir uma paleta de quatro cores",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "A cor preta deve ser a primeira na paleta de cores",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "A página deve possuir um quadro de pixels, com 25 pixels",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "O quadro de pixels deve aparecer abaixo da paleta de cores",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Cada pixel do quadro de pixels deve possuir 40 pixels de largura e 40 pixels de altura e ser delimitado por uma margem preta de 1 pixel",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Ao carregar a página, a cor preta da paleta já deve estar selecionada para pintar os pixels",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Ao clicar em uma das cores da paleta, a cor selecionada na paleta é que vai ser usada para preencher os pixels",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Ao clicar em um pixel com uma cor selecionada, o pixel deve ser preenchido com esta cor",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Ao clicar em um pixel com uma cor selecionada, somente esse pixel deverá ser preenchido, sem influenciar na cor dos demais pixels",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie um botão que, ao ser clicado, limpa o quadro, preenchendo a cor de todos seus pixels com branco",
+        "enabled": true,
+        "bonus": true
+      },
+      {
+        "description": "Faça o quadro de pixels ter seu tamanho definido pelo usuário",
+        "enabled": true,
+        "bonus": true
+      },
+      {
+        "description": "Faça com que as cores da paleta sejam geradas aleatoriamente ao carregar a página",
+        "enabled": true,
+        "bonus": true
+      }
+    ]
+  }
+}

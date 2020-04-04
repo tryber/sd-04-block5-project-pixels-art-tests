@@ -1,0 +1,28 @@
+{
+  "name": "sd-03-block5-project-pixels-art-tests",
+  "version": "1.0.0",
+  "description": "Repository containing the automated tests for the project sd-03-block5-project-pixels-art",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betrybe/sd-03-block5-project-pixels-art-tests.git"
+  },
+  "author": "Leandro Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betrybe/sd-03-block5-project-pixels-art-tests/issues"
+  },
+  "homepage": "https://github.com/betrybe/sd-03-block5-project-pixels-art-tests#readme",
+  "dependencies": {
+    "cypress": "^4.0.2",
+    "cypress-multi-reporters": "^1.2.4",
+    "minimist": ">=1.2.3",
+    "mocha": "^7.0.1",
+    "mochawesome": "^4.1.0",
+    "mochawesome-merge": "^4.0.0",
+    "mochawesome-report-generator": "^4.1.0"
+  }
+}
