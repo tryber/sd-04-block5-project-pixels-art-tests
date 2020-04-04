@@ -1,9 +1,9 @@
 {
   "project": {
-    "name": "betrybe/sd-0x-block5-project-pixels-art",
+    "name": "tryber/sd-04-block5-project-pixels-art",
     "description": "Projeto de HTML, CSS & JavaScript.",
     "enabled": true,
-    "deadline": "YYYY-MM-DD 17:10:00",
+    "deadline": "2020-04-13 17:10:00",
     "requirements": [
       {
         "description": "A página deve possuir o título \"Paleta de Cores\"",
