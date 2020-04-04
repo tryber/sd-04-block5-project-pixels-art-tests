@@ -1,15 +1,15 @@
 {
-  "A página deve possuir o título \"Paleta de Cores\"": 0,
-  "A página deve possuir uma paleta de quatro cores": 0,
-  "A cor preta deve ser a primeira na paleta de cores": 0,
-  "A página deve possuir um quadro de pixels, com 25 pixels": 0,
-  "O quadro de pixels deve aparecer abaixo da paleta de cores": 0,
-  "Cada pixel do quadro de pixels deve possuir 40 pixels de largura e 40 pixels de altura e ser delimitado por uma margem preta de 1 pixel": 0,
-  "Ao carregar a página, a cor preta da paleta já deve estar selecionada para pintar os pixels": 0,
-  "Ao clicar em uma das cores da paleta, a cor selecionada na paleta é que vai ser usada para preencher os pixels": 0,
-  "Ao clicar em um pixel com uma cor selecionada, o pixel deve ser preenchido com esta cor": 0,
-  "Ao clicar em um pixel com uma cor selecionada, somente esse pixel deverá ser preenchido, sem influenciar na cor dos demais pixels": 0,
-  "Crie um botão que, ao ser clicado, limpa o quadro, preenchendo a cor de todos seus pixels com branco": 0,
-  "Faça o quadro de pixels ter seu tamanho definido pelo usuário": 0,
-  "Faça com que as cores da paleta sejam geradas aleatoriamente ao carregar a página": 0
+  "A página deve possuir o título \"Paleta de Cores\"": 145,
+  "A página deve possuir uma paleta de quatro cores": 146,
+  "A cor preta deve ser a primeira na paleta de cores": 147,
+  "A página deve possuir um quadro de pixels, com 25 pixels": 148,
+  "O quadro de pixels deve aparecer abaixo da paleta de cores": 150,
+  "Cada pixel do quadro de pixels deve possuir 40 pixels de largura e 40 pixels de altura e ser delimitado por uma margem preta de 1 pixel": 149,
+  "Ao carregar a página, a cor preta da paleta já deve estar selecionada para pintar os pixels": 151,
+  "Ao clicar em uma das cores da paleta, a cor selecionada na paleta é que vai ser usada para preencher os pixels": 152,
+  "Ao clicar em um pixel com uma cor selecionada, o pixel deve ser preenchido com esta cor": 153,
+  "Ao clicar em um pixel com uma cor selecionada, somente esse pixel deverá ser preenchido, sem influenciar na cor dos demais pixels": 154,
+  "Crie um botão que, ao ser clicado, limpa o quadro, preenchendo a cor de todos seus pixels com branco": 155,
+  "Faça o quadro de pixels ter seu tamanho definido pelo usuário": 156,
+  "Faça com que as cores da paleta sejam geradas aleatoriamente ao carregar a página": 157
 }
